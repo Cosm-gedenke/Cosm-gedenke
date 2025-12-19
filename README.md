@@ -14,6 +14,7 @@ My real name is Leonardo, I am easily contacted by discord or email. currently l
 [<img align="left" alt="Nix" width="26px" src="https://raw.githubusercontent.com/github/explore/b4afce4b084ef4c8563626815737f17882a795b9/topics/nix/nix.png" />][github]
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/b4afce4b084ef4c8563626815737f17882a795b9/topics/java/java.png" />][github]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/b4afce4b084ef4c8563626815737f17882a795b9/topics/python/python.png" />][github]
-
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/b4afce4b084ef4c8563626815737f17882a795b9/topics/C/C.png" />][github]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/b4afce4b084ef4c8563626815737f17882a795b9/topics/docker/docker.png" />][github]
 
 [github]: https://github.com/Cosm-gedenke
