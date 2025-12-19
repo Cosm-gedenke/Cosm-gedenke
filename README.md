@@ -1,6 +1,6 @@
 ### welcome to my profile :)
 
-My real name is Leonardo Guerreiro, I am easily contacted by discord or email. currently living in Portugal, Lisbon.
+My real name is Leonardo, I am easily contacted by discord or email. currently living in Portugal, Lisbon.
 - free software is the way to go
 - I love all things computers
 - studying Computer science and engineering at instituto superior tecnico, lisbon, Portugal
