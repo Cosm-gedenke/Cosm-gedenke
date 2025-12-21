@@ -1,6 +1,7 @@
 ### welcome to my profile :)
 
 My real name is Leonardo, I am easily contacted by discord or email. currently living in Portugal, Lisbon.
+- I only make meaningful contributions.
 - free software is the way to go
 - I love all things computers
 - studying Computer science and engineering at instituto superior tecnico, lisbon, Portugal
