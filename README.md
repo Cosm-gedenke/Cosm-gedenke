@@ -1,6 +1,5 @@
 ### welcome to my profile :)
-
-My real name is Leonardo, I am easily contacted by discord or email. currently living in Portugal, Lisbon.
+ I am easily contacted by discord or email. currently living in Portugal, Lisbon.
 - I only make meaningful contributions.
 - free/open source software is the way to go
 - I love all things computers
