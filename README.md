@@ -3,9 +3,9 @@
 - I only make meaningful contributions.
 - free/open source software is the way to go
 - I love all things computers
-- studying Computer science and engineering at instituto superior tecnico, lisbon, Portugal
+- studying Computer Science and Engineering at Instituto Superior Técnico, Lisbon, Portugal
 - CTF player at [Security Team @ Técnico](https://sectt.github.io)
-- very interested in pursuing cybersecurity, software engineering and robotics.
+- very interested in pursuing Cybersecurity, Software Engineering and Robotics.
 - I'm very obsessed with coffee, I make expresso at home 
 
 ## technologies I'm familiar and competent in.
