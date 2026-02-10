@@ -12,6 +12,7 @@
 ## what am I doing
 
 Currently interested in vulnerability analyzing and building services, mainly focusing in Cybersecurity Engineering and Software Engineering, involved in Open Source Rust and other Backend projects. <br>
+<br>
 Finalist at TechStorm26 VantaBlack, System design architect and Backend/Frontend Developer for the Project. <br>
 Building Peninsula, a Rust(migrating from C) webserver. <br>
 Building IceBreaker, a fully automated vulnerability analyzer built in Python with a Rust GUI, for the purpose of CTF and academic use <br>
