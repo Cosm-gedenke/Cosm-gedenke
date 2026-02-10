@@ -1,4 +1,4 @@
-### welcome to my profile :)
+### Welcome to my profile :)
  I am easily contacted by discord or email. currently living in Portugal, Lisbon.
 - I only make meaningful contributions.
 - free/open source software is the way to go
@@ -9,13 +9,14 @@
 - I'm very obsessed with coffee, I make expresso at home 
 
 
-## what am I doing
+## What I'm interested in
 
 Currently interested in vulnerability analyzing and building services, mainly focusing in Cybersecurity Engineering and Software Engineering, involved in Open Source Rust and other Backend projects. <br>
 <br>
 Finalist at TechStorm26 VantaBlack, System design architect and Backend/Frontend Developer for the Project. <br>
 Building Peninsula, a Rust(migrating from C) webserver. <br>
-Building IceBreaker, a fully automated vulnerability analyzer built in Python with a Rust GUI, for the purpose of CTF and academic use <br>
+Building IceBreaker, a fully automated vulnerability analyzer built in Python with a Rust GUI, for the purpose of CTF and academic use. <br>
+Web Exploitation teacher for secSTT team, academic security team. <br>
 
 ## technologies I'm familiar and competent in.
 
