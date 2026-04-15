@@ -9,24 +9,24 @@
 - I'm very obsessed with coffee, I make expresso at home 
 
 
-### What I'm interested in
+## What I'm interested in
 
 Currently interested in vulnerability analyzing and building services, mainly focusing in Cybersecurity Engineering, Penetration Testing and Red Teaming, involved in Open Source Rust and other Backend projects. <br>
 <br>
 
-## Main Expertise( Cybersecurity ):
+### Main Expertise( Cybersecurity ):
 
 Web Exploitation teacher for secSTT team, academic security team. <br>
 Part of the Er3bus Red Team, Auditing Services as a network/web Exploiter <br>
 Working alongside researchers at IST for development of SAST tools <br>
 
-## General Projects:
+### General Projects:
 Finalist at TechStorm26 VantaBlack, System design architect and Backend/Frontend Developer for the Project. <br>
 Building Peninsula, a Rust(migrating from C) webserver. <br>
 Building IceBreaker, a fully automated vulnerability analyzer built in Python with a Rust GUI, for the purpose of CTF and academic use. <br>
 ## technologies I'm familiar and competent in.
 
-### Languages:
+## Languages:
 [<img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/rust-lang/rust-artwork/bf0b3272f9ba8d22f7fd45e408496d05621b3b5c/logo/rust-logo-64x64.png" />][github]
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/b4afce4b084ef4c8563626815737f17882a795b9/topics/java/java.png" />][github]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/b4afce4b084ef4c8563626815737f17882a795b9/topics/python/python.png" />][github]
@@ -36,7 +36,7 @@ Building IceBreaker, a fully automated vulnerability analyzer built in Python wi
 [<img align="left" alt="Nix" width="26px" src="https://raw.githubusercontent.com/github/explore/b4afce4b084ef4c8563626815737f17882a795b9/topics/nix/nix.png" />][github] <br>
 
 
-###  Libraries/Frameworks:
+## Libraries/Frameworks:
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/b4afce4b084ef4c8563626815737f17882a795b9/topics/docker/docker.png" />][github]
 [<img align="left" alt="Nix" width="26px" src="https://raw.githubusercontent.com/github/explore/b4afce4b084ef4c8563626815737f17882a795b9/topics/nix/nix.png" />][github] <br>
 
