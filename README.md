@@ -9,15 +9,21 @@
 - I'm very obsessed with coffee, I make expresso at home 
 
 
-## What I'm interested in
+### What I'm interested in
 
-Currently interested in vulnerability analyzing and building services, mainly focusing in Cybersecurity Engineering and Software Engineering, involved in Open Source Rust and other Backend projects. <br>
+Currently interested in vulnerability analyzing and building services, mainly focusing in Cybersecurity Engineering, Penetration Testing and Red Teaming, involved in Open Source Rust and other Backend projects. <br>
 <br>
+
+## Main Expertise( Cybersecurity ):
+
+Web Exploitation teacher for secSTT team, academic security team. <br>
+Part of the Er3bus Red Team, Auditing Services as a network/web Exploiter <br>
+Working alongside researchers at IST for development of SAST tools <br>
+
+## General Projects:
 Finalist at TechStorm26 VantaBlack, System design architect and Backend/Frontend Developer for the Project. <br>
 Building Peninsula, a Rust(migrating from C) webserver. <br>
 Building IceBreaker, a fully automated vulnerability analyzer built in Python with a Rust GUI, for the purpose of CTF and academic use. <br>
-Web Exploitation teacher for secSTT team, academic security team. <br>
-
 ## technologies I'm familiar and competent in.
 
 ### Languages:
