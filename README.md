@@ -11,8 +11,13 @@
 
 ## What I'm interested in
 
-Currently interested in vulnerability analyzing and building services, mainly focusing in Cybersecurity Engineering, Penetration Testing and Red Teaming, involved in Open Source Rust and other Backend projects. <br>
-<br>
+I really enjoy and dabble in Cybersecurity, all the way from red teaming to blue teaming <br>
+
+I enjoy SWE with passion, my preferred language is Rust by far <br>
+
+I also mess a little with Game Dev and Robotics <br>
+
+
 
 ### Main Expertise( Cybersecurity ):
 
@@ -20,10 +25,11 @@ Web Exploitation teacher for secSTT team, academic security team. <br>
 Part of the Er3bus Red Team, Auditing Services as a network/web Exploiter <br>
 Working alongside researchers at IST for development of SAST tools <br>
 
-### General Projects:
+### SWE Projects:
 Finalist at TechStorm26 VantaBlack, System design architect and Backend/Frontend Developer for the Project. <br>
 Building Peninsula, a Rust(migrating from C) webserver. <br>
-Building IceBreaker, a fully automated vulnerability analyzer built in Python with a Rust GUI, for the purpose of CTF and academic use. <br>
+Building L3snik, pentest tool in Rust. <br>
+UAD-NG developer <br>
 ## technologies I'm familiar and competent in.
 
 ## Languages:
